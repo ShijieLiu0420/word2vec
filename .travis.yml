@@ -8,7 +8,7 @@ go:
 - 1.8
 - 1.9
 - tip
-go_import_path: code.sajari.com/word2vec
+go_import_path: github.com/shopeeliusj/word2vec
 notifications:
   email:
     - infra@sajari.com
